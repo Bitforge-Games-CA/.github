@@ -2,7 +2,9 @@
 
 A small video games company based in Saskatchewan, Canada.
 
-We develop primarily in Unity.
+While we currently have no released titles, we have a few projects on the burners. 
+
+Stay tuned!
 
 Thanks for stopping by :)
 
