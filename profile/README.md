@@ -6,7 +6,7 @@ While we currently have no released titles, we have a few projects cookin'.
 
 Stay tuned!
 
-Thanks for stopping by :)
+and thanks for stopping by :)
 
 
 <!--
