@@ -2,7 +2,7 @@
 
 A small video games company based in Saskatchewan, Canada.
 
-While we currently have no released titles, we have a few projects on the burners. 
+While we currently have no released titles, we have a few projects cookin'. 
 
 Stay tuned!
 
